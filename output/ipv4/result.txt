@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-06 18:31:56,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-07 06:15:03,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -22,8 +22,8 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -120,7 +120,6 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://221.13.235.129:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
