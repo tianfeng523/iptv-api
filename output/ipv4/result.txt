@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-23 06:16:12,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-23 18:41:27,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -102,7 +102,6 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://125.42.150.177:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
