@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-06-01 06:51:26,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-01 23:48:55,http://69.30.245.50/live/cctv1.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 
 💰央视付费频道,#genre#
