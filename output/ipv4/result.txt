@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-06-16 07:28:59,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+2026-06-16 22:52:15,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 ☘️广东频道,#genre#
 
