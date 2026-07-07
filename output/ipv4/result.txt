@@ -1,40 +1,15 @@
 🕘️更新时间,#genre#
-2026-07-07 20:25:31,http://60.10.139.113:8801/hls/2/index.m3u8
+2026-07-08 06:53:43,http://183.129.255.66:8480/hls/6/index.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://60.10.139.113:8801/hls/2/index.m3u8
-CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://222.223.41.27:8888/hls/7/index.m3u8
-CCTV-12,http://60.10.139.113:8801/hls/11/index.m3u8
-CCTV-13,http://222.223.41.27:8888/hls/13/index.m3u8
-CCTV-13,http://60.10.139.113:8801/hls/12/index.m3u8
-CCTV-13,http://101.66.199.29:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14,http://101.66.194.151:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14,http://101.66.199.29:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15,http://101.66.199.29:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15,http://101.66.194.151:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5+,http://183.129.255.66:8480/hls/6/index.m3u8
+CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-广东卫视,http://101.66.194.186:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://60.10.139.113:8801/hls/29/index.m3u8
-黑龙江卫视,http://60.10.139.113:8801/hls/27/index.m3u8
 甘肃卫视,http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv
-贵州卫视,http://101.66.194.151:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://101.66.194.186:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://101.66.195.209:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://101.66.199.29:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://101.66.194.151:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://101.66.194.186:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://101.66.195.209:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://101.66.199.29:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://101.66.199.29:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://101.66.199.29:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://101.66.194.151:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-宁夏卫视,http://118.193.115.2:9901/tsfile/live/0112_1.m3u8?key=txiptv
-山东卫视,http://101.66.199.29:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
+河北卫视,http://115.48.161.55:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
@@ -65,8 +40,8 @@ CCTV-15,http://101.66.194.151:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️海南频道,#genre#
 
@@ -108,7 +83,6 @@ CCTV-15,http://101.66.194.151:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://101.66.199.29:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
